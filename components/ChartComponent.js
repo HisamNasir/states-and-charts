@@ -1,4 +1,3 @@
-// components/ChartComponent.js
 import React, { useEffect, useRef } from 'react';
 import { Bar } from 'react-chartjs-2';
 const ChartComponent = () => {
